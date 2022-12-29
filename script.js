@@ -191,7 +191,7 @@ constructor(x,y, xSpeed,ySpeed){
 
 
 
-const Bomber = new _Bomber(30,30,5,5);
+const Bomber = new _Bomber(30,30,3,5);
 const Terrain = new _Terrain(20,40,70);
 
 
