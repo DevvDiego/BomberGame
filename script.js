@@ -25,6 +25,7 @@ class _Terrain {
     draw() {
       // Set the stroke style to green
       context.strokeStyle = 'green';
+      context.lineWidth = 5;
       // Begin the path
       context.beginPath();
       // Set the starting position to the first point
